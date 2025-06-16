@@ -1,4 +1,7 @@
 # Red Dead 1 Script Decompiler
+
+Outdated - please use MagicRDR.
+
 Decompile XSC scripts files from RDR1.
 SCOs are not supported.
 
